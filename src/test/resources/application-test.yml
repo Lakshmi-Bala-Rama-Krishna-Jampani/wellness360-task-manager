@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: task-manager-api-test
+
+app:
+  security:
+    username: testuser
+    password: testpass
+
+logging:
+  level:
+    root: WARN
+    com.wellness360.taskmanager: DEBUG
