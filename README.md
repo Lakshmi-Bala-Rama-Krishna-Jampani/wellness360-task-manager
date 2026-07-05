@@ -2,7 +2,7 @@
 
 Production-grade RESTful Task Management API built with **Spring Boot 3.4**, **Java 21**, and clean architecture principles.
 
-[![CI](https://github.com/your-org/task-manager-api/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/task-manager-api/actions/workflows/ci.yml)
+[![CI](https://github.com/Lakshmi-Bala-Rama-Krishna-Jampani/wellness360-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/Lakshmi-Bala-Rama-Krishna-Jampani/wellness360-task-manager/actions/workflows/ci.yml)
 
 ---
 
@@ -51,8 +51,8 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for requirements analysis, diag
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd Wellness360
+git clone https://github.com/Lakshmi-Bala-Rama-Krishna-Jampani/wellness360-task-manager.git
+cd wellness360-task-manager
 ```
 
 ---
