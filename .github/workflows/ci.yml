@@ -22,7 +22,9 @@ jobs:
           cache: maven
 
       - name: Build and verify
-        run: ./mvnw clean verify
+        run: |
+          chmod +x mvnw
+          ./mvnw clean verify
 
       - name: Upload JaCoCo report
         if: always()
